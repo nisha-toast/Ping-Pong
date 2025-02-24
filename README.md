@@ -13,3 +13,7 @@ Ping Pong IDE Game (Player vs Computer)
 
 ### Possible glitches
 - If the ball goes behind the player's paddle it may result in an exponential increase of the score recorded due to the game mechanics being based on collision.
+
+
+### References
+1. Helpful video guide: https://youtu.be/MPJ8XRpZZCk
