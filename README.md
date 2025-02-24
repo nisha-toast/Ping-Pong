@@ -10,6 +10,8 @@ Ping Pong IDE Game (Player vs Computer)
 1. You control the left hand side blue paddle board with the keys 'W' and 'S' on your keyboard.
 2. The game ends when you miss the bouncing ball.
 
+![screenshot](blob/PingPong.png)
+
 
 ### Possible glitches
 - If the ball goes behind the player's paddle it may result in an exponential increase of the score recorded due to the game mechanics being based on collision.
